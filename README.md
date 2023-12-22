@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PedroPaivaC
+- 👋 Hi, I’m Pedro Paiva
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on diverse projects
-- 📫 How to reach me: 
+- 📫 How to reach me: pedro@rogerpaiva.com.br
 
 <!---
 PedroPaivaC/PedroPaivaC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
