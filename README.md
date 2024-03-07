@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro C. Paiva
 - 🌱 I'm currently studying:
   - 🐍 Python
-    - 🐼 Pandas
+  - 🐼 Pandas
   - 🖥️ Machine Learning
 - 👀 Technologies I've studied:
   - 🐍 Python
