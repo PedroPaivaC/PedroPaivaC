@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Pedro Paiva
-- 👀 I’m interested in developing software
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Pedro C. Paiva
+- 🌱 I'm currently studying:
+  - 🐍 Python
+  - 🖥️ Machine Learning
+- 👀 Technologies I've studied:
+  - 🐍 Python
+  - C++ (Arduino applications)
+  - HTML5, CSS3
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me: pedro@rogerpaiva.com.br
 
