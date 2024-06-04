@@ -2,8 +2,13 @@
 - 🌱 I'm currently studying:
   - 🐍 Python
   - 🐼 Pandas
-  - 🖥️ Machine Learning
-- 👀 Technologies I've studied:
+  - 🧠 Artificial Intelligence:
+    - 🖥️ Machine Learning
+    - Large Language Models
+    - 📟 Embeddings
+    - ⋰ Vector Databases
+    - 👀 Computer Vision
+- 💡 Technologies I've studied:
   - 🐍 Python
   - C++ (Arduino applications)
   - HTML5, CSS3
