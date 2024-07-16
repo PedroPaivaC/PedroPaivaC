@@ -4,6 +4,8 @@
   - 🐼 Pandas
   - 🧠 Artificial Intelligence:
     - 🖥️ Machine Learning
+    - Deep Learning
+    - Neural Networks
     - Large Language Models
     - 📟 Embeddings
     - ⋰ Vector Databases
