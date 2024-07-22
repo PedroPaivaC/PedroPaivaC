@@ -1,15 +1,16 @@
 - 👋 Hi, I’m Pedro C. Paiva
 - 🌱 I'm currently studying:
+  - 🐦‍🔥 Swift
   - 🐍 Python
-  - 🐼 Pandas
+    - 🐼 Pandas
   - 🧠 Artificial Intelligence:
     - 🖥️ Machine Learning
     - Deep Learning
-    - Neural Networks
+        - Neural Networks
+        - 👀 Computer Vision
     - Large Language Models
     - 📟 Embeddings
     - ⋰ Vector Databases
-    - 👀 Computer Vision
 - 💡 Technologies I've studied:
   - 🐍 Python
   - C++ (Arduino applications)
