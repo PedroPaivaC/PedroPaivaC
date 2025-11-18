@@ -1,24 +1,48 @@
-- 👋 Hi, I’m Pedro C. Paiva
-- 🌱 I'm currently studying:
-  - 🐦‍🔥 Swift
-  - 🐍 Python
-    - 🐼 Pandas
-  - 🧠 Artificial Intelligence:
-    - 🖥️ Machine Learning
-    - Deep Learning
-        - Neural Networks
-        - 👀 Computer Vision
-    - Large Language Models
-    - 📟 Embeddings
-    - ⋰ Vector Databases
-- 💡 Technologies I've studied:
-  - 🐍 Python
-  - C++ (Arduino applications)
-  - HTML5, CSS3
-- 💞️ I’m looking to collaborate on diverse projects
-- 📫 How to reach me: pedro@rogerpaiva.com.br
+# 👋 Hey, I'm **Pedro C. Paiva**
 
-<!---
-PedroPaivaC/PedroPaivaC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Computer & Data Science student** exploring the frontiers of AI, vision systems, and modern software engineering.
+
+---
+
+## 🚀 What I’m Learning & Building Right Now
+
+### 🐍 **Python Ecosystem**
+- Scikit-Learn • Pandas • NumPy  
+- OpenCV (Vision Pipelines)  
+- FastAPI (Backend & APIs)
+
+### ☕ **Java**
+- JavaFX (UI/Frontend Programming)
+
+### 🧩 **C++**
+- Low-level programming & Arduino systems
+
+### 🍎 **Swift**
+- iOS development fundamentals
+
+### 🤖 **Artificial Intelligence**
+- Machine Learning → Deep Learning  
+  - Neural Networks  
+  - Computer Vision  
+- Large Language Models  
+- Embeddings & Vector Databases  
+
+---
+
+## 🧰 Technologies I've Worked With
+- Python  
+- Java  
+- C++ (Hardware & Arduino integration)  
+- HTML5 & CSS3  
+
+---
+
+## 🤝 Collaboration
+Always open to interesting projects—research, apps, APIs, vision models, anything that pushes boundaries.
+
+## 📬 Contact
+**Email:** ppaiva@umich.edu
+
+---
+
+### ✨ _“Learning. Building. Iterating.”_
