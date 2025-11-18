@@ -46,4 +46,4 @@ Always open to interesting projects, research, apps, APIs, vision models, anythi
 
 ---
 
-### ✨ _“Learning. Building. Iterating.”_
+### 🔥 _“Learning. Building. Iterating.”_
