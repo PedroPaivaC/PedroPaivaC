@@ -12,7 +12,7 @@
 - FastAPI (Backend & APIs)
 
 ### ☕ **Java**
-- JavaFX (UI/Frontend Programming)
+- JavaFX (UI)
 
 ### 🧩 **C++**
 - Low-level programming & Arduino systems
@@ -21,8 +21,9 @@
 - iOS development fundamentals
 
 ### 🤖 **Artificial Intelligence**
-- Machine Learning → Deep Learning  
-  - Neural Networks  
+- Machine Learning → Deep Learning
+  - Neural Networks
+  - Residual Networks
   - Computer Vision  
 - Large Language Models  
 - Embeddings & Vector Databases  
@@ -30,15 +31,15 @@
 ---
 
 ## 🧰 Technologies I've Worked With
-- Python  
+- Python
 - Java  
 - C++ (Hardware & Arduino integration)  
 - HTML5 & CSS3  
-
+- SQLite
 ---
 
 ## 🤝 Collaboration
-Always open to interesting projects—research, apps, APIs, vision models, anything that pushes boundaries.
+Always open to interesting projects, research, apps, APIs, vision models, anything that pushes boundaries.
 
 ## 📬 Contact
 **Email:** ppaiva@umich.edu
