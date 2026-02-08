@@ -7,6 +7,7 @@
 ## 🚀 What I’m Learning & Building Right Now
 
 ### 🐍 **Python Ecosystem**
+- PyTorch
 - Scikit-Learn • Pandas • NumPy  
 - OpenCV (Vision Pipelines)  
 - FastAPI (Backend & APIs)
